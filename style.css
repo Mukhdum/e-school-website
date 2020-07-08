@@ -171,8 +171,9 @@ a#green-btn:hover {
 /* form-area-start */
 
 .form-area {
-    padding: 20px 0;
+    padding: 50px 0;
     background: #F0FFF0;
+    margin-top: 40px;
     
 }
 
