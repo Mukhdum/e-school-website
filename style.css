@@ -44,10 +44,6 @@ a#green-btn:hover {
     padding: 40px 0;
     background: #F0FFF0;
 }
-
-.top-banner img {
-    width: 100%;
-}
 .top-banner h1 {
     font-size: 48px;
     letter-spacing: 4px;
